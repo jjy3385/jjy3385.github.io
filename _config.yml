@@ -5,6 +5,7 @@ email: contact@yourdomain.dev
 url: https://username.github.io
 theme: minima
 timezone: Asia/Seoul
+# GitHub Pages는 기본적으로 미래 날짜 포스트를 숨깁니다. 필요시 true로.
 future: false
 
 nav_links:
@@ -14,5 +15,3 @@ nav_links:
     url: "/categories/algorithm/"
   - title: "Spring Boot"
     url: "/categories/springboot/"
-  - title: "Search"
-    url: "/search/"
