@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello Jekyll on GitHub Pages"
-date: 2025-08-19 12:00:00 +0900
+date: 2025-08-10 12:00:00 +0900
 categories: general
 tags: [intro, jekyll, github-pages]
 ---

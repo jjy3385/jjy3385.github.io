@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BFS 알고리즘 기본기"
-date: 2025-08-20 09:00:00 +0900
+date: 2025-08-11 09:00:00 +0900
 categories: algorithm
 tags: [graph, bfs]
 ---

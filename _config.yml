@@ -2,8 +2,11 @@ title: JivaFlow Blog
 description: Backend, Algorithms, and mindful tech
 author: JivaFlow
 email: contact@yourdomain.dev
-url: https://username.github.io  # 커스텀 도메인 연결시 변경
+url: https://username.github.io
 theme: minima
+timezone: Asia/Seoul
+# GitHub Pages는 기본적으로 미래 날짜 포스트를 숨깁니다. 필요시 true로.
+future: false
 
 nav_links:
   - title: "Home"
