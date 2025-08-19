@@ -1,14 +1,14 @@
-title: JivaFlow
-description: Backend, Systems, and a mindful digital life
-author: jjy3385
-email: contact@jivaflow.dev
-url: https://username.github.io   # 커스텀 도메인 붙이면 거기로 바꾸면 됨
+title: JivaFlow Blog
+description: Backend, Algorithms, and mindful tech
+author: JivaFlow
+email: contact@yourdomain.dev
+url: https://username.github.io  # 커스텀 도메인 연결시 변경
 theme: minima
 
-# 옵션(필요시)
-# show_excerpts: true
-# minima:
-#   skin: classic
-#   social_links:
-#     github: jivaflow
-#     linkedin: your-linkedin-slug
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Algorithm"
+    url: "/categories/algorithm/"
+  - title: "Spring Boot"
+    url: "/categories/springboot/"
