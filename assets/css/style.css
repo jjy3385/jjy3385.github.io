@@ -1,2 +1,6 @@
 /* Custom styles */
 .post-list li { margin-bottom: 0.4rem; }
+.search-input { width: 100%; padding: 0.6rem 0.8rem; font-size: 1rem; }
+.search-result { margin: 0.6rem 0; }
+.search-result a { font-weight: 600; }
+.search-meta { font-size: 0.9rem; opacity: 0.8; }
