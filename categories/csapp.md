@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "CS:APP"
+title: "CSAPP"
 category: csapp
 permalink: /categories/csapp/
 ---

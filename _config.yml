@@ -13,5 +13,5 @@ nav_links:
     url: "/"
   - title: "Algorithm"
     url: "/categories/algorithm/"
-  - title: "CS:APP"
+  - title: "CSAPP"
     url: "/categories/csapp/"
