@@ -1,7 +1,7 @@
-title: JivaFlow Blog
-description: Backend, Algorithms, and mindful tech
-author: JivaFlow
-email: contact@yourdomain.dev
+title: 진주영 Blog
+description: mindful tech
+author: 진주영
+email: jjy3386@gmail.com
 url: https://username.github.io
 theme: minima
 timezone: Asia/Seoul
@@ -13,5 +13,5 @@ nav_links:
     url: "/"
   - title: "Algorithm"
     url: "/categories/algorithm/"
-  - title: "Spring Boot"
-    url: "/categories/springboot/"
+  - title: "CS:APP"
+    url: "/categories/csapp/"

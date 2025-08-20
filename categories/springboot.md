@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Spring Boot"
-category: springboot
-permalink: /categories/springboot/
+title: "CS:APP"
+category: csapp
+permalink: /categories/csapp/
 ---
