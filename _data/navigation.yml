@@ -1,12 +1,32 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "소개"
+    url: /about/
+  - title: "카테고리"
+    url: /categories/
+  - title: "태그"
+    url: /tags/
+  - title: ""
+    url: /search/
+    icon: "fas fa-search" # 돋보기 아이콘(Font Awesome)
+
+
+side_tree:
+  - title: "이야기"
+    url: /story/
+    children:
+      - title: "잡담"
+        url: /chat/
+      - title: "회고"
+        url: /look-back/
+  - title: "개발"
+    url: /dev/
+    children:
+      - title: "CS"
+        url: /cs/
+      - title: "알고리즘"
+        url: /algorithm/
+      - title: "자료구조"
+        url: /data-structure/
+      - title: "WEB"
+        url: /web/
