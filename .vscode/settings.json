@@ -1,6 +1,6 @@
 {
-  "pasteImage.path": "/images/${currentFileNameWithoutExt}",
-  "pasteImage.insertPattern": "![${imageFileName}](/images/${currentFileNameWithoutExt}/${imageFileName})",
+  "pasteImage.path": "../images/${currentFileNameWithoutExt}",
+  "pasteImage.insertPattern": "![${imageFileName}](../images/${currentFileNameWithoutExt}/${imageFileName})",
   "pasteImage.showFilePathConfirmInputBox": false,
   "pasteImage.forceUnixStyleSeparator": true
 }
