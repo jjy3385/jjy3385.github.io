@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "[정글 끝까지]나만의 핀토스 - 프로젝트1
+title: "[정글 끝까지]나만의 핀토스 - 프로젝트1"
 categories: [개발, CS]
 author_profile: true
 sidebar:
